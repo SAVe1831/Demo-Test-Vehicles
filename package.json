@@ -1,6 +1,7 @@
 {
   "name": "demo-test-vechicles",
   "version": "0.0.0",
+  "homepage": "https://save1831.github.io/Demo-Test-Vehicles/#/vechicles",
   "private": true,
   "type": "module",
   "scripts": {
